@@ -1,1 +1,1 @@
-# Jobapp
+Developed a company profile module in a Spring Boot application, where users can view company details along with associated job listings and employee reviews. Implemented a one-to-many relationship between companies, jobs, and reviews using JPA to ensure a properly structured relational database. This setup allows users to retrieve company details with all related jobs and reviews in a single query. Integrated full CRUD operations to manage companies, jobs, and reviews efficiently.
